@@ -46,8 +46,8 @@
 <img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/></p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Dev-sAHSRAH&show_icons=true&locale=en&layout=compact" alt="Dev-sAHSRAH" /></p>
-<br><br>
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=Dev-sAHSRAH&show_icons=true&locale=en" alt="Dev-sAHSRAH" width="410" /></p>
+
+<p><<img align="center" src="https://github-readme-stats.vercel.app/api?username=Dev-sAHSRAH&show_icons=true&locale=en" alt="Dev-sAHSRAH" width="410" /></p>
 <hr>
 <br>
 Last Edited on: 05/08/2022
