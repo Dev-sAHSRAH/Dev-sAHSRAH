@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/97530701/183138417-e8fb6095-150d-4483-943b-785e2352aa57.gif" width="450px" height="230px"></img>
+  <img src="https://user-images.githubusercontent.com/97530701/183138417-e8fb6095-150d-4483-943b-785e2352aa57.gif" width="55%" height="50%"></img>
 </p>
 <hr>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Harsha</h1>
